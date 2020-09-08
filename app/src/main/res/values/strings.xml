@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TFG initial demo</string>
+    <string name="newExample">NUEVO EJEMPLO</string>
+    <string name="mainTitle">Reconocedor Automático del Habla</string>
+    <string name="subTitle">(ASR)</string>
+    <string name="hintLocutorName">Escriba el nombre del locutor</string>
+    <string name="title_activity_a_s_r">TFG</string>
+    <string name="record">Grabar</string>
+    <string name="play">Reproducir</string>
+</resources>
