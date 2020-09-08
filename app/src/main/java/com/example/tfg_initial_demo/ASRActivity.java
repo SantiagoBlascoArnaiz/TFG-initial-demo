@@ -125,7 +125,6 @@ public class ASRActivity extends AppCompatActivity {
             }
 
             recorder.start();
-
         }
     }
 
